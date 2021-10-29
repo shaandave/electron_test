@@ -1,6 +1,6 @@
 {
   "name": "electron_app",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "main.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "https://github.com/shaandave/electron_test.git"
   },
-  "author": "",
+  "author": "shantanu_dave",
   "license": "ISC",
   "devDependencies": {
     "electron": "^15.3.0",
